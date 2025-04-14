@@ -13,3 +13,11 @@ A context-aware medical chatbot powered by LangChain, HuggingFace embeddings, FA
 - ✅ Flask-based chat UI
 - ✅ Context-aware fallback if no relevant information is found
 - ✅ Fully local, private, and customizable
+
+👨‍💻 Developers
+
+🎓 [Gokulnath G](https://github.com/GOKULNATH004)
+
+🎓 [Rithick M K](https://github.com/rithick-06)
+
+🎓 [Anushya Varshini K](https://github.com/anushya03)
